@@ -1,51 +1,58 @@
-<!-- Profil Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lorenzo689&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+# Lorenzo Negri
+19 year old dual-studies student in Business Informatics @ DHBW Mannheim.<br>
 
-# Hey, ich bin Lorenzo
+Practical placement at Universitätsklinikum Heidelberg<br>
 
-Ich bin dualer Student in Wirtschaftsinformatik.
+SAP S/4HANA Transformation, ABAP Development, and Full-Stack Engineering.
 
+<hr>
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,java,spring,postgres,mysql,git&perline=7)](https://skillicons.dev)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,angular,java,spring,mysql,git&perline=7)](https://skillicons.dev)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lorenzo689&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorenzo689&theme=tokyonight)](https://github.com/lorenzo689)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzo689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Lorenzo's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo689&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<hr>
 
+# Projects
 
-# Aktuelle Projekte
+## DeepSeek Clone — Full-Stack Chat Application
+Full-stack AI chat application with real-time messaging, authentication, and database persistence.
+
+Spring Boot 4 backend with REST API · Next.js 16 + React 19 frontend · PostgreSQL with Flyway migrations · Clerk authentication · Tailwind CSS · TypeScript
+
+🔗 [Repository](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone)
+
+---
+
 ## Universitätsklinikum Heidelberg
-Stack: SAP ABAP · SAP R/3 · Clean Core · RAP · CAP · SAP BTP
+SAP custom code transformation as part of the Clean Core approach for the S/4HANA migration.
+Legacy ABAP assessment and modernization using RAP/CAP on SAP BTP.
+
+SAP ABAP · SAP R/3 · Clean Core · RAP · CAP · SAP BTP
+
+---
 
 ## Operating System Concepts
-Implementierung klassischer OS-Konzepte:
-Dining Philosophers (Monitor-basiert), Reader-Writer-Locks, Producer-Consumer mit Semaphoren, Multithreaded UDP/TCP Server mit Thread Pools, und parallele Array-Berechnungen mit Benchmarking.
+Classic OS concurrency concepts implemented in Java from scratch — Dining Philosophers, Reader-Writer locks, Producer-Consumer, Multithreaded UDP/TCP Server with thread pools.
 
-Stack: Java
+Java · Multithreading · Synchronisation · Sockets
+
+🔗 [Repository](https://github.com/lorenzo689/Operating-System-Concepts)
+
+---
 
 ## Cryptographic Methods
-Implementierung fundamentaler Kryptographie-Algorithmen.
+Fundamental cryptographic algorithms implemented in Java. AES, RSA, Hashing.
 
-Stack: Java
+Java
+
+🔗 [Repository](https://github.com/lorenzo689/Cryptographic-methods)
 
 
 ## Contribution Graph
