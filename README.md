@@ -32,17 +32,19 @@ Ich bin dualer Student in Wirtschaftsinformatik.
 </p>
 
 
-## Aktuelle Projekte
-# Universitätsklinikum Heidelberg
+# Aktuelle Projekte
+## Universitätsklinikum Heidelberg
 Stack: SAP ABAP · SAP R/3 · Clean Core · RAP · CAP · SAP BTP
 
 ## Operating System Concepts
 Implementierung klassischer OS-Konzepte:
 Dining Philosophers (Monitor-basiert), Reader-Writer-Locks, Producer-Consumer mit Semaphoren, Multithreaded UDP/TCP Server mit Thread Pools, und parallele Array-Berechnungen mit Benchmarking.
+
 Stack: Java
 
 ## Cryptographic Methods
 Implementierung fundamentaler Kryptographie-Algorithmen.
+
 Stack: Java
 
 
@@ -54,4 +56,4 @@ Stack: Java
 ## Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzonegri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.negri@web.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lorenzo.negri@web.de)
