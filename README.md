@@ -53,6 +53,5 @@ Stack: Java
 
 ## Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DEINE@EMAIL.DE)
-[![Heidelberg](https://img.shields.io/badge/📍_Heidelberg-Remote_bevorzugt-gray?style=for-the-badge)](https://github.com/lorenzo689)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzonegri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.negri@web.de)
