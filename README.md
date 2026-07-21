@@ -9,7 +9,7 @@ SAP S/4HANA Transformation, ABAP Development, and Full-Stack Engineering.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,angular,java,spring,mysql,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,java,spring,mysql,git&perline=7)](https://skillicons.dev)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
 
 
