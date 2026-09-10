@@ -12,11 +12,6 @@ SAP S/4HANA Transformation, ABAP Development, and Full-Stack Engineering.
 [![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,java,spring,mysql,git&perline=7)](https://skillicons.dev)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
 
-
-## GitHub Stats
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorenzo689&theme=tokyonight)](https://github.com/lorenzo689)
-
 <hr>
 
 # Projects
