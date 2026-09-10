@@ -26,8 +26,6 @@ Spring Boot 4 backend with REST API · Next.js 16 + React 19 frontend · Postgre
 ---
 
 ## Universitätsklinikum Heidelberg
-SAP custom code transformation as part of the Clean Core approach for the S/4HANA migration.
-Legacy ABAP assessment and modernization using RAP/CAP on SAP BTP.
 
 SAP ABAP · SAP R/3 · Clean Core · RAP · CAP · SAP BTP
 
