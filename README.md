@@ -1,27 +1,34 @@
 # Lorenzo Negri
 
-**Wirtschaftsinformatik · Software Engineering · Full-Stack-Entwicklung**
+**Business Informatics · Software Engineering · Full-Stack Development**
 
-Ich studiere Wirtschaftsinformatik mit Schwerpunkt Software Engineering an der DHBW Mannheim und absolviere meinen Praxisteil am Universitätsklinikum Heidelberg. Dort arbeite ich im SAP-Umfeld mit ABAP und S/4HANA. In eigenen Projekten entwickle ich Webanwendungen von der Benutzeroberfläche bis zur Datenhaltung und beschäftige mich mit verteilten Systemen, Datenvisualisierung und guter Softwarearchitektur.
+- **Education:** Dual-study program in Business Informatics with a focus on Software Engineering at DHBW Mannheim
+- **Practical placement:** Heidelberg University Hospital, working with SAP ABAP and S/4HANA
+- **Interests:** Full-stack web development, distributed systems, and data visualization
 
-## Aktuelle Projekte
+## Tech Stack
 
-| Projekt | Worum es geht | Technologien |
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,java,nestjs,mysql,git&perline=7)](https://skillicons.dev)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
+
+## Current Projects
+
+| Project | Overview | Technologies |
 | --- | --- | --- |
-| [World Atlas](https://github.com/lorenzo689/World-Atlas) · [Live-Demo](https://lorenzo689.github.io/World-Atlas/) | Interaktiver 3D-Globus mit historischen Grenzen, Länderdaten, Vergleichen und Quizfunktionen. Die Live-Demo zeigt den historischen Globus; weitere Funktionen benötigen das Backend. | React, TypeScript, Three.js, Spring Boot, PostgreSQL, Kafka |
-| [CareerHub](https://github.com/lorenzo689/careerhub) | Plattform für berufliche Vernetzung mit Diensten für Nutzer, Beiträge, Feed, Suche und Benachrichtigungen. | Java, Microservices, MySQL, Redis, Elasticsearch, Kafka |
-| [Lernapp](https://github.com/lorenzo689/vibecoding-frontend) | Studienraum für Kurse, Lernmaterial, Zusammenfassungen, Karteikarten und Prüfungsvorbereitung. | Next.js, TypeScript, Supabase |
-| [Portfolio-Website](https://github.com/lorenzo689/Portfolio-website) | Responsive Portfolio-Seite mit Fokus auf Typografie, Zugänglichkeit und klarer Darstellung meiner Arbeit. | HTML, CSS, JavaScript, Vite |
+| [World Atlas](https://github.com/lorenzo689/World-Atlas) · [Live demo](https://lorenzo689.github.io/World-Atlas/) | Interactive 3D globe with historical borders, country data, comparisons, and quizzes. The live demo showcases the historical globe; additional features require the backend. | React, TypeScript, Three.js, Spring Boot, PostgreSQL, Kafka |
+| [CareerHub](https://github.com/lorenzo689/careerhub) | Professional networking platform with services for users, posts, feeds, search, and notifications. | Java, microservices, MySQL, Redis, Elasticsearch, Kafka |
+| [Study App](https://github.com/lorenzo689/vibecoding-frontend) | Learning space for courses, study materials, summaries, flashcards, and exam preparation. | Next.js, TypeScript, Supabase |
+| [Portfolio Website](https://github.com/lorenzo689/Portfolio-website) | Responsive portfolio focused on typography, accessibility, and a clear presentation of projects and experience. | HTML, CSS, JavaScript, Vite |
 
-## Weitere Projekte
+## Other Projects
 
-- [DeepSeek Clone](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone) – Full-Stack-Chat-Anwendung mit Spring Boot, Next.js, PostgreSQL und Clerk.
-- [Operating System Concepts](https://github.com/lorenzo689/Operating-System-Concepts) – Java-Implementierungen von Synchronisation, Nebenläufigkeit und Netzwerkkommunikation.
-- [Cryptographic Methods](https://github.com/lorenzo689/Cryptographic-methods) – Implementierungen grundlegender kryptografischer Verfahren in Java.
+- [DeepSeek Clone](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone) – Full-stack chat application built with Spring Boot, Next.js, PostgreSQL, and Clerk.
+- [Operating System Concepts](https://github.com/lorenzo689/Operating-System-Concepts) – Java implementations of synchronization, concurrency, and network communication concepts.
+- [Cryptographic Methods](https://github.com/lorenzo689/Cryptographic-methods) – Implementations of fundamental cryptographic methods in Java.
 
-## Schwerpunkte
+## Areas of Focus
 
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend & Daten:** Java, Spring Boot, PostgreSQL, MySQL, REST-APIs
+- **Backend & data:** Java, Spring Boot, PostgreSQL, MySQL, REST APIs
 - **Enterprise:** SAP ABAP, S/4HANA
-- **Werkzeuge:** Git, Docker
+- **Tools:** Git, Docker
