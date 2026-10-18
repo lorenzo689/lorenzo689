@@ -1,54 +1,27 @@
 # Lorenzo Negri
-19 year old dual-studies student in Business Informatics @ DHBW Mannheim.<br>
 
-Practical placement at Universitätsklinikum Heidelberg<br>
+**Wirtschaftsinformatik · Software Engineering · Full-Stack-Entwicklung**
 
-SAP S/4HANA Transformation, ABAP Development, and Full-Stack Engineering.
+Ich studiere Wirtschaftsinformatik mit Schwerpunkt Software Engineering an der DHBW Mannheim und absolviere meinen Praxisteil am Universitätsklinikum Heidelberg. Dort arbeite ich im SAP-Umfeld mit ABAP und S/4HANA. In eigenen Projekten entwickle ich Webanwendungen von der Benutzeroberfläche bis zur Datenhaltung und beschäftige mich mit verteilten Systemen, Datenvisualisierung und guter Softwarearchitektur.
 
-<hr>
+## Aktuelle Projekte
 
-## Tech Stack
+| Projekt | Worum es geht | Technologien |
+| --- | --- | --- |
+| [World Atlas](https://github.com/lorenzo689/World-Atlas) · [Live-Demo](https://lorenzo689.github.io/World-Atlas/) | Interaktiver 3D-Globus mit historischen Grenzen, Länderdaten, Vergleichen und Quizfunktionen. Die Live-Demo zeigt den historischen Globus; weitere Funktionen benötigen das Backend. | React, TypeScript, Three.js, Spring Boot, PostgreSQL, Kafka |
+| [CareerHub](https://github.com/lorenzo689/careerhub) | Plattform für berufliche Vernetzung mit Diensten für Nutzer, Beiträge, Feed, Suche und Benachrichtigungen. | Java, Microservices, MySQL, Redis, Elasticsearch, Kafka |
+| [Lernapp](https://github.com/lorenzo689/vibecoding-frontend) | Studienraum für Kurse, Lernmaterial, Zusammenfassungen, Karteikarten und Prüfungsvorbereitung. | Next.js, TypeScript, Supabase |
+| [Portfolio-Website](https://github.com/lorenzo689/Portfolio-website) | Responsive Portfolio-Seite mit Fokus auf Typografie, Zugänglichkeit und klarer Darstellung meiner Arbeit. | HTML, CSS, JavaScript, Vite |
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,java,nestjs,mysql,git&perline=7)](https://skillicons.dev)
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
+## Weitere Projekte
 
-<hr>
+- [DeepSeek Clone](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone) – Full-Stack-Chat-Anwendung mit Spring Boot, Next.js, PostgreSQL und Clerk.
+- [Operating System Concepts](https://github.com/lorenzo689/Operating-System-Concepts) – Java-Implementierungen von Synchronisation, Nebenläufigkeit und Netzwerkkommunikation.
+- [Cryptographic Methods](https://github.com/lorenzo689/Cryptographic-methods) – Implementierungen grundlegender kryptografischer Verfahren in Java.
 
-# Projects
+## Schwerpunkte
 
-## DeepSeek Clone — Full-Stack Chat Application
-Full-stack AI chat application with real-time messaging, authentication, and database persistence.
-
-Spring Boot 4 backend with REST API · Next.js 16 + React 19 frontend · PostgreSQL with Flyway migrations · Clerk authentication · Tailwind CSS · TypeScript
-
-🔗 [Repository](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone)
-
----
-
-## Universitätsklinikum Heidelberg
-
-SAP ABAP · SAP R/3 · Clean Core · RAP · CAP · SAP BTP
-
----
-
-## Operating System Concepts
-Classic OS concurrency concepts implemented in Java from scratch — Dining Philosophers, Reader-Writer locks, Producer-Consumer, Multithreaded UDP/TCP Server with thread pools.
-
-Java · Multithreading · Synchronisation · Sockets
-
-🔗 [Repository](https://github.com/lorenzo689/Operating-System-Concepts)
-
----
-
-## Cryptographic Methods
-Fundamental cryptographic algorithms implemented in Java. AES, RSA, Hashing.
-
-Java
-
-🔗 [Repository](https://github.com/lorenzo689/Cryptographic-methods)
-
-
-## Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/lorenzo689/lorenzo689/output/github-contribution-grid-snake-dark.svg)
-
+- **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend & Daten:** Java, Spring Boot, PostgreSQL, MySQL, REST-APIs
+- **Enterprise:** SAP ABAP, S/4HANA
+- **Werkzeuge:** Git, Docker
