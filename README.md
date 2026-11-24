@@ -7,7 +7,9 @@ Building scalable full-stack applications and enterprise software solutions
 
 ## About Me
 
-I'm a dual B.Sc. Business Information Systems student, specializing in Software Engineering, with hands-on experience in enterprise software development.
+I'm a dual B.Sc. Business Information Systems student, 
+specializing in Software Engineering, with hands-on experience 
+in enterprise software development.
 
 On the side, I'm also building [Interactive History](https://github.com/lorenzo689/World-Atlas), an interactive 3D world atlas combining geospatial
 visualization, historical data, and geography education.
