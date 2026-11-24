@@ -1,34 +1,26 @@
-# Lorenzo Negri
+<h1 align="center">Hi 👋 I'm Lorenzo Negri</h1>
 
-**Business Informatics · Software Engineering · Full-Stack Development**
+<p align="center">
+Software Engineer <a href="http://lorenzonegri.de"></a><br />
+Building scalable full-stack applications and enterprise software solutions
+</p>
 
-- **Education:** Dual-study program in Business Informatics with a focus on Software Engineering at DHBW Mannheim
-- **Practical placement:** Heidelberg University Hospital, working with SAP ABAP and S/4HANA
-- **Interests:** Full-stack web development, distributed systems, and data visualization
+## About Me
 
-## Tech Stack
+I'm a dual B.Sc. Business Information Systems student, specializing in Software Engineering, with hands-on experience in enterprise software development.
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,java,nestjs,mysql,git&perline=7)](https://skillicons.dev)
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0FAAFF)
+On the side, I'm also building [Interactive History](https://github.com/lorenzo689/World-Atlas), an interactive 3D world atlas combining geospatial
+visualization, historical data, and geography education.
 
-## Current Projects
+## What I'm Building
 
-| Project | Overview | Technologies |
-| --- | --- | --- |
-| [World Atlas](https://github.com/lorenzo689/World-Atlas) · [Live demo](https://lorenzo689.github.io/World-Atlas/) | Interactive 3D globe with historical borders, country data, comparisons, and quizzes. The live demo showcases the historical globe; additional features require the backend. | React, TypeScript, Three.js, Spring Boot, PostgreSQL, Kafka |
-| [CareerHub](https://github.com/lorenzo689/careerhub) | Professional networking platform with services for users, posts, feeds, search, and notifications. | Java, microservices, MySQL, Redis, Elasticsearch, Kafka |
-| [Study App](https://github.com/lorenzo689/vibecoding-frontend) | Learning space for courses, study materials, summaries, flashcards, and exam preparation. | Next.js, TypeScript, Supabase |
-| [Portfolio Website](https://github.com/lorenzo689/Portfolio-website) | Responsive portfolio focused on typography, accessibility, and a clear presentation of projects and experience. | HTML, CSS, JavaScript, Vite |
+My goal is simply to solve real-world problems, using software as a tool.
 
-## Other Projects
+I have hands-on experience in enterprise software development, digitizing internal business processes, improving existing applications, replacing manual workflows, and centralizing business data to simplify day-to-day operations.
 
-- [DeepSeek Clone](https://github.com/lorenzo689/Full-Stack-Project---Deepseek-Clone) – Full-stack chat application built with Spring Boot, Next.js, PostgreSQL, and Clerk.
-- [Operating System Concepts](https://github.com/lorenzo689/Operating-System-Concepts) – Java implementations of synchronization, concurrency, and network communication concepts.
-- [Cryptographic Methods](https://github.com/lorenzo689/Cryptographic-methods) – Implementations of fundamental cryptographic methods in Java.
+Through my personal projects, I'm also exploring distributed systems, backend engineering, and software architecture.
 
-## Areas of Focus
+## Connect
 
-- **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend & data:** Java, Spring Boot, PostgreSQL, MySQL, REST APIs
-- **Enterprise:** SAP ABAP, S/4HANA
-- **Tools:** Git, Docker
+- [LinkedIn](https://www.linkedin.com/in/lorenzo-negri-10b46b334)
+- [Portfolio](https://lorenzonegri.de)
